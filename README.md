@@ -1,2 +1,1 @@
-# Qn.Portfolio
-This repository contains my portfolio website, temporarily hosted on GitHub Pages.
+﻿This repository contains my portfolio website, temporarily hosted on GitHub Pages.
