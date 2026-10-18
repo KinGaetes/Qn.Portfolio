@@ -6,7 +6,7 @@
  document.querySelectorAll('.area-links a[href]').forEach(a=>{if(new URL(a.href).searchParams.get('area')===key&&key)a.setAttribute('aria-current','page');});
  if(key==='sobre-mi'){
   I18n.bind(heading,'about.name');I18n.bind(description,'about.description');
-  const img=document.createElement('img');I18n.bind(img,'about.portrait','alt');img.src='assets/portrait.png';img.style.maxWidth='380px';list.append(img);
+  const img=document.createElement('img');I18n.bind(img,'about.portrait','alt');img.src='assets/portrait.webp';img.style.maxWidth='380px';list.append(img);
  }else{
   const area=areas[key];I18n.bind(heading,area?area[0]:'projects.title');if(area)I18n.bind(description,area[1]);
   ProjectPanels.sortProjects(area?area[2]:Object.keys(projects)).forEach(id=>{const item=ProjectPanels.strip(id);item.id=id;list.append(item);});

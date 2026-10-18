@@ -108,7 +108,7 @@ window.PORTFOLIO_DATA = {
       "gallery": [],
       "actionId": "project.try",
       "cover": {
-        "src": "gallery/glyph-catalog.png",
+        "src": "gallery/glyph-catalog.webp",
         "altId": "text.107"
       },
       "date": "2026-08",
@@ -148,7 +148,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.carioca.technical",
       "cover": {
-        "src": "gallery/carioca-provided.png",
+        "src": "gallery/carioca-provided.webp",
         "altId": "text.109"
       }
     },
@@ -214,7 +214,7 @@ window.PORTFOLIO_DATA = {
       "gallery": [],
       "actionId": "project.try",
       "cover": {
-        "src": "gallery/wine-provided.png",
+        "src": "gallery/wine-provided.webp",
         "altId": "text.112"
       },
       "date": "2026-05",
@@ -242,7 +242,7 @@ window.PORTFOLIO_DATA = {
       "gallery": [],
       "actionId": "project.try",
       "cover": {
-        "src": "gallery/quality-provided.png",
+        "src": "gallery/quality-provided.webp",
         "altId": "text.114"
       },
       "date": "2026-05",
@@ -282,7 +282,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.asoda.technical",
       "cover": {
-        "src": "gallery/asoda-provided.png",
+        "src": "gallery/asoda-provided.webp",
         "altId": "text.116"
       }
     },
@@ -325,7 +325,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.knights.technical",
       "cover": {
-        "src": "gallery/knights-provided.png",
+        "src": "gallery/knights-provided.webp",
         "altId": "text.118"
       }
     },
@@ -338,7 +338,7 @@ window.PORTFOLIO_DATA = {
       "gallery": [],
       "actionId": "project.try",
       "cover": {
-        "src": "gallery/water-catalog.png",
+        "src": "gallery/water-catalog.webp",
         "altId": "text.120"
       },
       "date": "2026-08",
@@ -433,7 +433,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.suya.technical",
       "cover": {
-        "src": "gallery/suya-brand.png",
+        "src": "gallery/suya-brand.webp",
         "altId": "text.124"
       },
       "coverFocus": "suya-logo"
@@ -488,7 +488,7 @@ window.PORTFOLIO_DATA = {
         }
       ],
       "actionId": "project.try",
-      "date": "2026",
+      "date": "2025",
       "tools": [
         "css",
         "html",
@@ -575,7 +575,7 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [],
       "actionId": "project.try",
-      "date": "2023",
+      "date": "2023-12",
       "tools": [
         "csharp",
         "unity"
@@ -587,7 +587,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.shownight.technical",
       "cover": {
-        "src": "gallery/shownight-title.png",
+        "src": "gallery/shownight-title.webp",
         "altId": "text.145"
       }
     },
@@ -601,7 +601,7 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [],
       "actionId": "project.try",
-      "date": "2024",
+      "date": "2024-12",
       "tools": [
         "csharp",
         "unity"
@@ -612,7 +612,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.icebreaker.technical",
       "cover": {
-        "src": "gallery/icebreaker-title.png",
+        "src": "gallery/icebreaker-title.webp",
         "altId": "text.148"
       }
     },
@@ -626,7 +626,7 @@ window.PORTFOLIO_DATA = {
       ],
       "gallery": [],
       "actionId": "project.try",
-      "date": "2024",
+      "date": "2023-10",
       "tools": [
         "csharp",
         "unity"
@@ -637,7 +637,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.health.technical",
       "cover": {
-        "src": "gallery/health-title.png",
+        "src": "gallery/health-title.webp",
         "altId": "text.151"
       }
     },
@@ -653,7 +653,7 @@ window.PORTFOLIO_DATA = {
       "gallery": [],
       "actionId": "text.157",
       "video": "5kYcceZ9yA4",
-      "date": "2024",
+      "date": "2024-11",
       "tools": [
         "csharp",
         "unity"
@@ -665,7 +665,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.mitos.technical",
       "cover": {
-        "src": "gallery/mitos-title.png",
+        "src": "gallery/mitos-title.webp",
         "altId": "text.154"
       }
     },
@@ -726,7 +726,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.deriva.technical",
       "cover": {
-        "src": "gallery/deriva-wordmark-context.png",
+        "src": "gallery/deriva-wordmark-context.webp",
         "altId": "text.162"
       }
     },
@@ -759,48 +759,48 @@ window.PORTFOLIO_DATA = {
       "technicalId": "project.cocktails.technical",
       "collection": [
         {
-          "src": "gallery/cocktails-JapaneseCoctailsCollection-0.png",
+          "src": "gallery/cocktails-JapaneseCoctailsCollection-0.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-JapaneseCoctailsCollection-1.png",
+          "src": "gallery/cocktails-JapaneseCoctailsCollection-1.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-JapaneseCoctailsCollection-2.png",
+          "src": "gallery/cocktails-JapaneseCoctailsCollection-2.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-JapaneseCoctailsCollection-3.png",
+          "src": "gallery/cocktails-JapaneseCoctailsCollection-3.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-JapaneseCoctailsCollection-4.png",
+          "src": "gallery/cocktails-JapaneseCoctailsCollection-4.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-Soju-Study-0.png",
+          "src": "gallery/cocktails-Soju-Study-0.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-Soju-Study-1.png",
+          "src": "gallery/cocktails-Soju-Study-1.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-Soju-Study-2.png",
+          "src": "gallery/cocktails-Soju-Study-2.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-Soju-Study-3.png",
+          "src": "gallery/cocktails-Soju-Study-3.webp",
           "altId": "text.166"
         },
         {
-          "src": "gallery/cocktails-Soju-Study-4.png",
+          "src": "gallery/cocktails-Soju-Study-4.webp",
           "altId": "text.166"
         }
       ],
       "cover": {
-        "src": "gallery/soju-comic.png",
+        "src": "gallery/soju-comic.webp",
         "altId": "text.166"
       },
       "stripCrop": "75 350 720 650"
@@ -814,7 +814,7 @@ window.PORTFOLIO_DATA = {
         "apps"
       ],
       "cover": {
-        "src": "gallery/night-catalog.png",
+        "src": "gallery/night-catalog.webp",
         "altId": "project.night.name"
       },
       "date": "2026-07",
@@ -848,7 +848,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.cozy.technical",
       "cover": {
-        "src": "gallery/cozy-provided.png",
+        "src": "gallery/cozy-provided.webp",
         "altId": "project.cozy.name"
       },
       "url": "https://kingaetes.github.io/Cozy-Symbol-Rain/"
@@ -862,7 +862,7 @@ window.PORTFOLIO_DATA = {
         "apps"
       ],
       "cover": {
-        "src": "gallery/curve-catalog.png",
+        "src": "gallery/curve-catalog.webp",
         "altId": "project.curve.name"
       },
       "date": "2026-09",
@@ -885,7 +885,7 @@ window.PORTFOLIO_DATA = {
         "apps"
       ],
       "cover": {
-        "src": "gallery/chisen-catalog.png",
+        "src": "gallery/chisen-catalog.webp",
         "altId": "project.chisen.name"
       },
       "date": "2026-08",
@@ -905,7 +905,6 @@ window.PORTFOLIO_DATA = {
       "textId": "project.nda.text",
       "image": "brands/ulpomedia.gif",
       "url": "https://ulpomedia.com/",
-      "direct": true,
       "gallery": [],
       "areaKeys": [
         "juegos"
@@ -952,7 +951,7 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.semantic.technical",
       "cover": {
-        "src": "gallery/semantic-provided.png",
+        "src": "gallery/semantic-provided.webp",
         "altId": "project.semantic.name"
       }
     },
@@ -975,158 +974,158 @@ window.PORTFOLIO_DATA = {
       ],
       "technicalId": "project.posters.technical",
       "cover": {
-        "src": "gallery/posters-cover.png",
+        "src": "gallery/posters-cover.webp",
         "altId": "project.posters.name"
       },
       "collection": [
         {
-          "src": "gallery/posters-Posters-0.png",
+          "src": "gallery/posters-Posters-0.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-1.png",
+          "src": "gallery/posters-Posters-1.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-2.png",
+          "src": "gallery/posters-Posters-2.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-3.png",
+          "src": "gallery/posters-Posters-3.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-4.png",
+          "src": "gallery/posters-Posters-4.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-5.png",
+          "src": "gallery/posters-Posters-5.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-6.png",
+          "src": "gallery/posters-Posters-6.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-7.png",
+          "src": "gallery/posters-Posters-7.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-8.png",
+          "src": "gallery/posters-Posters-8.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-9.png",
+          "src": "gallery/posters-Posters-9.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-10.png",
+          "src": "gallery/posters-Posters-10.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-11.png",
+          "src": "gallery/posters-Posters-11.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-12.png",
+          "src": "gallery/posters-Posters-12.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-13.png",
+          "src": "gallery/posters-Posters-13.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-14.png",
+          "src": "gallery/posters-Posters-14.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-15.png",
+          "src": "gallery/posters-Posters-15.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-16.png",
+          "src": "gallery/posters-Posters-16.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-17.png",
+          "src": "gallery/posters-Posters-17.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-18.png",
+          "src": "gallery/posters-Posters-18.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-19.png",
+          "src": "gallery/posters-Posters-19.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-20.png",
+          "src": "gallery/posters-Posters-20.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-21.png",
+          "src": "gallery/posters-Posters-21.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-22.png",
+          "src": "gallery/posters-Posters-22.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-23.png",
+          "src": "gallery/posters-Posters-23.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-24.png",
+          "src": "gallery/posters-Posters-24.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-25.png",
+          "src": "gallery/posters-Posters-25.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-26.png",
+          "src": "gallery/posters-Posters-26.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-27.png",
+          "src": "gallery/posters-Posters-27.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-28.png",
+          "src": "gallery/posters-Posters-28.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-29.png",
+          "src": "gallery/posters-Posters-29.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-30.png",
+          "src": "gallery/posters-Posters-30.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-31.png",
+          "src": "gallery/posters-Posters-31.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-32.png",
+          "src": "gallery/posters-Posters-32.webp",
           "altId": "project.posters.name"
         }
       ],
       "coverGrid": [
         {
-          "src": "gallery/posters-Posters-0.png",
+          "src": "gallery/posters-Posters-0.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-8.png",
+          "src": "gallery/posters-Posters-8.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-17.png",
+          "src": "gallery/posters-Posters-17.webp",
           "altId": "project.posters.name"
         },
         {
-          "src": "gallery/posters-Posters-29.png",
+          "src": "gallery/posters-Posters-29.webp",
           "altId": "project.posters.name"
         }
       ]
@@ -1147,9 +1146,9 @@ window.PORTFOLIO_DATA = {
       ],
       "skillIds": [
         "skill.modelling",
+        "skill.rigging",
         "skill.animation",
-        "skill.lighting",
-        "skill.rigging"
+        "skill.lighting"
       ],
       "technicalId": "project.shadow.technical",
       "cover": {

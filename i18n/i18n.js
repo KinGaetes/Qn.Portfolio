@@ -42,9 +42,14 @@
  }
  function preserveLinks(){
   document.querySelectorAll('a[href]').forEach(a=>{
-   if(a.hasAttribute('download')||a.getAttribute('href').startsWith('#'))return;
-   const url=new URL(a.getAttribute('href'),location.href);
-   if(url.origin===baseURL.origin&&url.pathname.startsWith(baseURL.pathname)&&/\.html$/.test(url.pathname)){
+   const href=a.getAttribute('href');
+   if(!href||a.hasAttribute('download')||href.startsWith('#'))return;
+   let url;try{url=new URL(href,location.href);}catch{return;}
+   // Preserve the selected language on page links AND same-page query links
+   // (such as explorar.html?area=datos, whose links use ?area=datos).
+   if(url.origin===baseURL.origin&&url.pathname.startsWith(baseURL.pathname)&&
+      (/\.html$/i.test(url.pathname)||
+       (href.startsWith('?')&&url.pathname===location.pathname))){
     url.searchParams.set('lang',language);a.href=url.href;
    }
   });
